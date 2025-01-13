@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/clicksmartwebsite/static/js/main.ca0c13c5.js",
+    "index.html": "/clicksmartwebsite/index.html",
+    "main.ca0c13c5.js.map": "/clicksmartwebsite/static/js/main.ca0c13c5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ca0c13c5.js"
+  ]
+}
